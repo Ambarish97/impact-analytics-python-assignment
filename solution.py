@@ -3,7 +3,7 @@ Solution file to calculate number of ways to attend classes over N days and grad
 """
 
 
-# function to calculate graduation probability
+# function to calculate number of total valid sequences and graduation probability
 def get_total_sequences_and_graduation_probability(N):
 
     # dictionary utilized for recursion memoization
